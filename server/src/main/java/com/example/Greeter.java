@@ -13,7 +13,7 @@ public class Greeter {
   }
 
   /**
-   * Método encargado de devolver un saludo
+   * Método encargado de devolver un saludo.
    * @param someone the name of a person
    * @return greeting string
    */
@@ -21,3 +21,4 @@ public class Greeter {
     return String.format("Hello, %s!", someone);
   }
 }
+
